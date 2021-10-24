@@ -7,7 +7,7 @@ metadata:
 spec:
   tls:
   - hosts:
-    - marcel.guru
+    - houzztec.com
     secretName: example-app-tls
   rules:
   - host: marcel.guru
